@@ -1,2 +1,3 @@
 # hello-world
-a place where you store ideas, resources, or even share and discuss things with others.
+
+Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor. Sholom Aleichem
